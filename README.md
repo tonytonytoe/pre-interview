@@ -1,1 +1,2 @@
 # Pre-interview
+To run run-queries.py, just make sure results.csv is clear and run the python file. It should automatically add the results of every file in queries to the csv file. Sit back and relax!
